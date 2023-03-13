@@ -14,7 +14,7 @@ Upon visiting the site, you can click the generate password button and a series 
 
 Note that, if an invalid character amount or invalid character, for the length of password, or entered, the user will be prompted to put in a valid character. Likewise, if the user selects no options for the password, they will be prompted to select at least one option. Check it out for yourself! [Password Generator Link Here](https://philippwinston.github.io/Password-Generator/).
 
-![alt text](assets/images/Password-Gen-Home.png)
+![alt text](./Assets/images/Password-Gen-Home.png)
 
 ## Credits
 
