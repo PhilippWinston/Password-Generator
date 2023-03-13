@@ -18,7 +18,11 @@ Note that, if an invalid character amount or invalid character, for the length o
 
 ## Credits
 
-N/A
+JS code #17,
+learned about isNAN (Not a Number) from MDN web docs as i looked for a better way to catch incorrect characters for the Password lenth length. 
+
+[isNaN Reference]
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
 
 ## License
 
